@@ -145,9 +145,11 @@ body {
 /* Footer */
 footer {
   background-color: #2f303a;
+  font-style: normal;
 }
 
-.footer .logo {
+.footer .logo,
+.header-nav .logo {
   text-decoration: none;
   color: var(--basic-white);
   font-family: "Raleway", sans-serif;
@@ -158,6 +160,7 @@ footer {
 
 .address {
   color: var(--basic-white);
+  font-style: normal;
 }
 
 .address a {

@@ -168,9 +168,6 @@ footer {
   font-size: 14px;
   color: var(--text-color);
 }
-.address {
-  color: var(--basic-white);
-}
 
 .address a:hover,
 .address a:focus {

@@ -198,11 +198,8 @@ footer {
   font-size: 18px;
   line-height: 2;
 }
-
-.project-title p,
 .project-category {
   color: var(--text-color);
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.88;
 }

@@ -65,7 +65,7 @@ body {
 
 .contact-info a {
   color: var(--text-color);
-  font-weight: 700;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -189,7 +189,7 @@ footer {
 }
 
 .projects a:focus {
-  color: var(--accent-color);
+  color: none;
 }
 
 .project-title {
